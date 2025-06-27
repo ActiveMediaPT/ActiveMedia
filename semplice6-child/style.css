@@ -1,0 +1,18 @@
+/*
+Theme Name: Semplice 6 Child
+Theme URI: https://www.semplice.com
+Description: Child Theme para Semplice 6 com Grid de Portfólio personalizado
+Author: Seu Nome
+Author URI: https://seusite.com
+Template: semplice
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: semplice-child
+*/
+
+/* Estilos adicionais específicos para o child theme */
+
+.screen-reader-text {
+	z-index: 1;
+}
