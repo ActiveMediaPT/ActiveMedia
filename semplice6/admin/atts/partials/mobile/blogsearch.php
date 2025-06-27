@@ -1,0 +1,96 @@
+<?php
+
+// -----------------------------------------
+// semplice
+// admin/atts/partials/mobile/blogsearch.php
+// -----------------------------------------
+
+
+
+$options = array(
+	'title'  	 => $title . ' Options',
+	'break'		 => '2,2,2',
+	'class'		 => 'mobile-option mobile-option-' . $breakpoint,
+	'font_size_' . $breakpoint => array(
+		'data-css-attribute' => 'font-size',
+		'title'			=> 'Font Size',
+		'size'			=> 'span2',
+		'offset'		=> false,
+		'data-input-type' 	=> 'range-slider',
+		'data-target'	=> '.search-field',
+		'default'		=> 16,
+		'min'			=> 6,
+		'max'			=> 999,
+		'class'     	=> 'editor-listen',
+		'data-handler'  => 'blogsearch',
+		'data-has-unit'	=> true,
+		'data-range-slider' => 'blogsearch',
+		'responsive'	=> true,
+	),
+	'letter_spacing_' . $breakpoint => array(
+		'title'				=> 'Letter Spacing',
+		'size'				=> 'span2',
+		'data-input-type' 	=> 'range-slider',
+		'default'			=> 0,
+		'min'				=> 0,
+		'max'				=> 9999,
+		'data-negative' 	=> true,
+		'data-has-unit'		=> true,
+		'data-divider'		=> 10,
+		'class' 	 		=> 'editor-listen',
+		'data-handler'		=> 'blogsearch',
+		'data-range-slider' => 'blogsearch',
+		'responsive'	=> true,
+	),
+	'padding_ver_' . $breakpoint => array(
+		'data-css-attribute' => 'font-size',
+		'title'			=> 'Padding Vertical',
+		'help'			=> 'If your layout is horizontal, the padding for the input fields and the submit button will be matching in size so they always have the same height.',
+		'size'			=> 'span2',
+		'offset'		=> false,
+		'data-input-type' 	=> 'range-slider',
+		'data-target'	=> '.search-field',
+		'default'		=> 16,
+		'min'			=> 0,
+		'max'			=> 999,
+		'class'     	=> 'editor-listen',
+		'data-handler'  => 'blogsearch',
+		'data-has-unit'	=> true,
+		'data-range-slider' => 'blogsearch',
+		'responsive'	=> true,
+	),
+	'padding_hor_' . $breakpoint => array(
+		'data-css-attribute' => 'font-size',
+		'title'			=> 'Padding Horizontal',
+		'size'			=> 'span2',
+		'offset'		=> false,
+		'data-input-type' 	=> 'range-slider',
+		'data-target'	=> '.search-field',
+		'default'		=> 20,
+		'min'			=> 0,
+		'max'			=> 999,
+		'class'     	=> 'editor-listen',
+		'data-handler'  => 'blogsearch',
+		'data-has-unit'	=> true,
+		'data-range-slider' => 'blogsearch',
+		'responsive'	=> true,
+	),
+	'icon_padding_' . $breakpoint => array(
+		'data-css-attribute' => 'font-size',
+		'title'			=> 'Icon Padding',
+		'size'			=> 'span2',
+		'offset'		=> false,
+		'data-input-type' 	=> 'range-slider',
+		'data-target'	=> '.search-field',
+		'default'		=> 20,
+		'min'			=> 0,
+		'max'			=> 999,
+		'class'     	=> 'editor-listen',
+		'data-handler'  => 'blogsearch',
+		'data-has-unit'	=> true,
+		'data-range-slider' => 'blogsearch',
+		'responsive'	=> true,
+	),
+);
+
+?>
