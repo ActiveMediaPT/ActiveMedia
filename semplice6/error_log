@@ -1,0 +1,8 @@
+[28-May-2025 20:21:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/activem1/public_html/wp-content/themes/semplice6/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/activem1/public_html/wp-content/themes/semplice6/index.php on line 9
+[08-Jun-2025 12:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/activem1/public_html/wp-content/themes/semplice6/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/activem1/public_html/wp-content/themes/semplice6/index.php on line 9
