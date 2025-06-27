@@ -1,0 +1,17 @@
+{
+    "featured": [],
+    "changelog": [
+        {
+            "label": "fixed",
+            "text": "Categories (post settings, portfolio, blog) now work correctly with WordPress 6.7+"
+        },
+        {
+            "label": "fixed",
+            "text": "E-Mail input for the mailchimp is now set to \"required\""
+        },
+        {
+            "label": "fixed",
+            "text": "After setting navbar border color to transparent the edit popup will not work anymore"
+        }
+    ]
+}

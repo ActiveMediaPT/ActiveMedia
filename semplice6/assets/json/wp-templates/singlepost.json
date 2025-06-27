@@ -1,0 +1,172 @@
+{
+	"order": {
+		"cover": {
+			"row_cover": {
+				"columns": {}
+			}
+		},
+		"section_n4c1zhmhb": {
+			"row_43uu2o2hh": {
+				"columns": {
+					"column_p9njobr8m": ["content_2zi6af6zc"]
+				}
+			}
+		},
+		"section_bfmi1ypi9": {
+			"row_a3aj7wq5r": {
+				"columns": {
+					"column_gnzghn4xu": ["content_3xx4hfca5"]
+				}
+			}
+		}
+	},
+	"images": {},
+	"branding": {
+		"scroll_reveal": "disabled"
+	},
+	"unpublished_changes": false,
+	"content_2zi6af6zc": {
+		"locked": true,
+		"content": {
+			"xl": ""
+		},
+		"module": "blogposts",
+		"options": {
+			"layout": "fullwidth",
+			"content_order": {
+				"0": "category",
+				"1": "title",
+				"2": "meta",
+				"3": "thumb",
+				"4": "content",
+				"5": "tags"
+			},
+			"fw_title_width": "12",
+			"fw_content_width": "8",
+			"readtime_visibility": "visible",
+			"category_align": "center",
+			"category_fontsize": "1rem",
+			"category_seperator_padding": "0.5555555555555556rem",
+			"show_options": "category",
+			"title_align": "center",
+			"title_fontsize": "4rem",
+			"title_top_spacing": "1.3888888888888888rem",
+			"title_line_height": "4.555555555555555rem",
+			"meta_align": "center",
+			"meta_bottom_spacing": "2.2222222222222223rem",
+			"meta_fontsize": "0.8888888888888888rem",
+			"title_bottom_spacing": "1.3888888888888888rem",
+			"content_top_spacing": "2.2222222222222223rem",
+			"tags_visibility": "visible",
+			"tags_fontsize": "1rem",
+			"category_top_spacing": "0rem",
+			"meta_underline_padding": "0rem",
+			"meta_seperator_padding": "0.3333333333333333rem",
+			"category_bottom_spacing": "0rem"
+		},
+		"styles": {
+			"xl": {
+				"padding-top": "3.3333333333333335rem",
+				"padding-bottom": "3.3333333333333335rem"
+			}
+		},
+		"motions": {
+			"active": {},
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_n4c1zhmhb": {
+		"locked": true,
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": {},
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_p9njobr8m": {
+		"locked": true,
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": {},
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_3xx4hfca5": {
+		"content": {
+			"xl": ""
+		},
+		"module": "blogcomments",
+		"options": {
+			"comment_form_bg_color": "#ffffff",
+			"comment_submit_bg_color": "#ffffff"
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_bfmi1ypi9": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single",
+			"data-justify": "center"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {
+				"background-color": "#f7f7f7"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_gnzghn4xu": {
+		"width": {
+			"xl": "8"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	}
+}

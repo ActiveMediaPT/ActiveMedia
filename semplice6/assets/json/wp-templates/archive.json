@@ -1,0 +1,72 @@
+{
+	"order": {
+		"cover": {
+			"row_cover": {
+				"columns": {}
+			}
+		},
+		"section_n4c1zhzhb": {
+			"row_46uu2o2hh": {
+				"columns": {
+					"column_p9nkobr8m": ["content_2zi9af6zc"]
+				}
+			}
+		}
+	},
+	"images": {},
+	"branding": {},
+	"unpublished_changes": false,
+	"content_2zi9af6zc": {
+		"locked": true,
+		"content": {
+			"xl": ""
+		},
+		"module": "blogposts",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_n4c1zhzhb": {
+		"locked": true,
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_p9nkobr8m": {
+		"locked": true,
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	}
+}
